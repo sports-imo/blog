@@ -4,8 +4,8 @@ title: "Pitcher's Win-Loss Record Has to Go"
 comments: true
 ---
 #### by Walker Dickey
-  
-  
+&nbsp  
+&nbsp  
 With the MLB season looming and the Astros dominating the headlines, there is something else the league must consider. It is time to let go of the pitcher’s win-loss record. It’s irrelevant, an outdated stat, and carries no real value to determine how good a pitcher actually is. There’s not just one thing that makes it a bad stat, rather a combination of rules and regulations that make it a stat that simply doesn’t matter.
 
 The first rule that baffles me is how starting pitchers have different rules to get a win than relievers do. In order to qualify for a win, a starting pitcher must pitch at least five innings. On the other hand, relievers often only have to get one out. For example, if a starter has gone through 4 ⅔ perfect innings with a lead and has to come out of the game due to injury, he does not qualify for the win, even though he dominated over half the game. The reliever, having worked harder in the bullpen than in the live game, would most likely “earn” the win. By rule, all he would have to do is not give up two runs. If his team maintained its lead, he would be credited with the win, even if he was pulled after getting just a single out.  The rule states the official scorer “generally should, but is not required to,” consider the reliever’s outing “ineffective and brief” if the reliever pitches less than one inning and allows two or more earned runs.  This mess tries, but fails, to make the stat better. The starter is still cheated out of the win, and the stat is still useless.
