@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Pitcher's Win-Loss Record Has to Go"
 summary: "Why the MLB should let this misleading stat go"
 comments: true
