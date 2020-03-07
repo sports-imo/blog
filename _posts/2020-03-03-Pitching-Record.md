@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pitcher's Win-Loss Record Has to Go"
-summary: "Why the MLB should let this misleading stat go"
+description: "Why the MLB should let this misleading stat go"
 author: "Walker Dickey"
 comments: true
 ---
