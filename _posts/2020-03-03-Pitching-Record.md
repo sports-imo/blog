@@ -5,6 +5,8 @@ comments: true
 categories: [baseball, pitching, sports, stats, rules]
 ---
 
+# Pitcher's Win-Loss Record Has to Go
+#### by Walker Dickey
 
 With the MLB season looming and the Astros dominating the headlines, there is something else the league must consider. It is time to let go of the pitcher’s win-loss record. It’s irrelevant, an outdated stat, and carries no real value to determine how good a pitcher actually is. There’s not just one thing that makes it a bad stat, rather a combination of rules and regulations that make it a stat that simply doesn’t matter.
 
