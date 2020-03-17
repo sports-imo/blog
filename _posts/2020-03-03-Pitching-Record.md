@@ -2,6 +2,9 @@
 layout: post
 title: "Pitcher's Win-Loss Record Has to Go"
 comments: true
+categories: [MLB, stats, baseball, pitching, blog, sports, win-loss]
+show_tags: false
+
 ---
 ### by Walker Dickey
 
